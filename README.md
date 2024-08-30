@@ -9,8 +9,10 @@ To get your development environment up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sahil-n06/mentor-connect.git
+   ```
+   ```
+   cd mentor-connect
    ```
 
 2. Install the dependencies:
